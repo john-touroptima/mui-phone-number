@@ -1,7 +1,7 @@
 {
-  "name": "material-ui-phone-number",
+  "name": "mui-phone-number",
   "version": "3.0.0",
-  "description": "A material-ui react component to format phone numbers. Based on react-phone-input-2",
+  "description": "A material-ui react component to format phone numbers. Based on react-phone-input-2. Fork of Alex Plumb's material-ui-phone-number project.",
   "main": "dist/index.js",
   "types": "index.d.ts",
   "scripts": {
