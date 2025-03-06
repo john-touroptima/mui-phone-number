@@ -1,4 +1,4 @@
-# material-ui-phone-number
+# touroptima-phone-number
 Highly customizable phone input component with auto formatting. Based on the wonderful [react-phone-input-2](https://github.com/bl00mber/react-phone-input-2) package.
 
 It looks like this, but in Material Design:
@@ -10,13 +10,13 @@ Uses @material-ui/core/TextField for rendering the phone input
 ## Installation
 
 ```shell-script
-npm install material-ui-phone-number --save
+npm install touroptima-phone-number --save
 ```
 
 ## Usage
 
 ```jsx
-import MuiPhoneNumber from 'material-ui-phone-number';
+import MuiPhoneNumber from 'touroptima-phone-number';
 
 React.render(
   <MuiPhoneNumber defaultCountry={'us'} onChange={handleOnChange}/>,
