@@ -1,5 +1,5 @@
 {
-  "name": "mui-phone-number",
+  "name": "touroptima-phone-number",
   "version": "3.0.0",
   "description": "A material-ui react component to format phone numbers. Based on react-phone-input-2. Fork of Alex Plumb's material-ui-phone-number project.",
   "main": "dist/index.js",
@@ -11,20 +11,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/john-touroptima/mui-phone-number"
+    "url": "https://github.com/john-touroptima/touroptima-phone-number"
   },
   "keywords": [
     "material",
     "react",
     "phone",
     "format",
-    "telephone"
+    "telephone",
+    "touroptima"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/john-touroptima/mui-phone-number/issues"
+    "url": "https://github.com/john-touroptima/touroptima-phone-number/issues"
   },
-  "homepage": "https://github.com/john-touroptima/mui-phone-number",
+  "homepage": "https://github.com/john-touroptima/touroptima-phone-number",
   "devDependencies": {
     "@babel/core": "^7.15.8",
     "@babel/plugin-proposal-class-properties": "^7.14.5",
